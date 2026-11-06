@@ -1,4 +1,5 @@
-Hi these is the first file we are using 
+Hi these is the first file we are using
 These is the using og the git locally
 This is the feature branch content.
-Theses is the feature branch content  we are putting the second
+Theses is the feature branch content we are putting the second
+these is the searchbar/feature thing
